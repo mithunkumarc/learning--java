@@ -6,3 +6,7 @@
 #### kafka ubuntu setup
 
     https://www.youtube.com/watch?v=yips4_qd1j0    
+
+#### spring
+
+    https://github.com/Apress/Spring-Security-6-Recipes
